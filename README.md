@@ -12,7 +12,7 @@
 各サマリーにはカテゴリ別にタグをつけています。  
 
 ## Progress
-サマリの進捗はGitHub Projectsで管理しています。  
+サマリー投稿予定等の進捗はGitHub Projectsで管理したりしなかったりします。  
 
 ## Format
 
