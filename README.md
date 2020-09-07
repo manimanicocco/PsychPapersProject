@@ -15,7 +15,7 @@
 サマリー投稿予定等の進捗はGitHub Projectsで管理したりしなかったりします。  
 
 ## How to Post?
-下記のFormatをコピーしてIssuesへ。  
+以下のFormatをコピーしてIssuesへ。  
 New Issueで新規スレッドを立ててタイトルに論文のタイトルを記述します。  
 Issueの本文にコピーしたフォーマットをペーストして自由に埋めていってください。  
 
