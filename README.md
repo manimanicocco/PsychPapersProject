@@ -8,14 +8,14 @@
 
 ## Paper summary
 
-論文のサマリーはIssueにまとめています。  
+論文のサマリーは[Issues](https://github.com/manimanicocco/PsychPapersProject/issues)にまとめています。  
 各サマリーにはカテゴリ別にタグをつけています。  
 
 ## Progress
 サマリー投稿予定等の進捗はGitHub Projectsで管理したりしなかったりします。  
 
 ## How to Post?
-以下のFormatをコピーしてIssuesへ。  
+以下のFormatをコピーして[Issues](https://github.com/manimanicocco/PsychPapersProject/issues)へ。  
 New Issueで新規スレッドを立ててタイトルに論文のタイトルを記述します。  
 Issueの本文にコピーしたフォーマットをペーストして自由に埋めていってください。  
 
